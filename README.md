@@ -1,0 +1,2 @@
+# ScrapKhata
+waste management
